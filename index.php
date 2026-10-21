@@ -76,7 +76,7 @@
     		<div class="content-center">
     			<div class="container">
     				<div class="title-brand">
-    					<h1 class="presentation-title">Paper Kit 2</h1>
+    					<h1 class="presentation-title">Paper Kit Version 2</h1>
     					<div class="fog-low">
     						<img src="assets/img/fog-low.png" alt="">
     					</div>
@@ -85,7 +85,7 @@
     					</div>
     				</div>
 
-    				<h2 class="presentation-subtitle text-center">Make your mark with a Free Bootstrap 4 UI Kit! </h2>
+    				<h2 class="presentation-subtitle text-center">Make your mark with Hagital Cloud Training! </h2>
     			</div>
     		</div>
             <div class="moving-clouds" style="background-image: url('assets/img/clouds.png'); ">
